@@ -1,6 +1,6 @@
 [package]
 name = "solana-geyser-plugin-scaffold"
-version = "1.11.2"
+version = "1.16.1"
 edition = "2021"
 description = "The simplest Solana Geyser Plugin ever"
 authors = ["mwrites <mwrites.pub@pm.me>"]
@@ -12,7 +12,7 @@ keywords = ["solana", "geyser", "plugin", "solana-geyser-plugin"]
 crate-type = ["cdylib", "rlib"]
 
 [dependencies]
-solana-geyser-plugin-interface = { version = "=1.11.1" }
-solana-logger = { version = "=1.11.1" }
+solana-geyser-plugin-interface = { version = "=1.16.1" }
+solana-logger = { version = "=1.16.1" }
 log = "0.4.14"
 bs58 = "0.4.0"
