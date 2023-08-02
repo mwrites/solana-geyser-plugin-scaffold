@@ -1,3 +1,3 @@
 {
-    "libpath": "../target/debug/libsolana_geyser_plugin_scaffold.dylib",
+    "libpath": "../target/debug/libsolana_geyser_plugin_scaffold.dylib"
 }
